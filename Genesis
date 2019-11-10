@@ -1,0 +1,10 @@
+Zeitraum:4,1<=t<=1 Ga
+Temperatur: T_(Luft)[K]=[283;373]
+			T_(Wasser)[K]=[277;348]->lok.Max.=[277,470]
+Druck: 	p_Luft(t)<<1024 Pa 
+		p_Wasser(h),P=const.,r(p,T)? Reaktionsgeschwindigkeit?
+
+
+Basen: (Natrium)Hydrogencarbonat, Amide / Amine
+
+Atmosphärische Parameter:
